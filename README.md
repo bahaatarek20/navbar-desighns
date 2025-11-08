@@ -41,3 +41,11 @@ This project aims to provide ready-to-use CSS solutions for complex responsivene
 * *Preventing Element Overlap* on medium-sized screens.
 * *Precise Background Sizing and Positioning* for key visual elements across all breakpoints.
 *
+Tablet Design
+<img width="1131" height="893" alt="Screenshot 2025-11-08 083459" src="https://github.com/user-attachments/assets/5bd18a90-90f8-4e6c-9c20-b2c7bc18648b" />
+Labtob Design
+<img width="1919" height="903" alt="Screenshot 2025-11-08 083425" src="https://github.com/user-attachments/assets/41822d5b-00e6-4d9d-8911-85b2e797ca97" />
+mobile Design
+
+<img width="610" height="893" alt="Screenshot 2025-11-08 083231" src="https://github.com/user-attachments/assets/41e23c3a-14a7-438c-a496-5b35b8c59157" />
+
