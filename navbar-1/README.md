@@ -1,4 +1,4 @@
-# navbar-desighn
+# navbar-design
 A collection of responsive and modern navbar designs, showcasing various styles and functionalities. Ideal for developers looking for diverse navigation options
 # 🌟 Navbar Designs Collection 🌟
 
